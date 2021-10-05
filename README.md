@@ -31,7 +31,10 @@ My Padilla E-commerce site was built groundup by me.
  Here's what the looks like:
  <h2 align="center">
    <img src="https://media.giphy.com/media/NYvw0MCqtrYyriTWsj/giphy.gif" alt="Padilla E-com" width="600px" />
-   <img sec="https://media.giphy.com/media/NYvw0MCqtrYyriTWsj/giphy.gif" alt="Padilla Mobile" width="600px" />
+  <br>
+</h2>
+<h2 align="center">
+   <img src="https://media.giphy.com/media/nVuZRmUcBn1Fc6KHm3/giphy.gif" alt="Padilla E-Com" width="600px" />
   <br>
 </h2>
 
