@@ -34,16 +34,6 @@ My Padilla E-commerce site was built groundup by me.
    <img sec="https://giphy.com/embed/NYvw0MCqtrYyriTWsj" alt="Padilla Mobile" width="600px" />
   <br>
 </h2>
- 
- 
- 
-  <h2 align="center">
-   <iframe src="https://giphy.com/embed/nVuZRmUcBn1Fc6KHm3" width="480" height="260" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-   <p><a href="https://giphy.com/gifs/nVuZRmUcBn1Fc6KHm3">via GIPHY</a></p>
-   <iframe src="https://giphy.com/embed/NYvw0MCqtrYyriTWsj" width="480" height="260" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-   <p><a href="https://giphy.com/gifs/NYvw0MCqtrYyriTWsj">via GIPHY</a></p>
-  <br>
-</h2>
 
 # Getting Started with Create React App
 
