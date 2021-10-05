@@ -30,7 +30,7 @@ My Padilla E-commerce site was built groundup by me.
 
  Here's what the looks like:
   <h2 align="center">
-   <img src="<iframe src="https://giphy.com/embed/nVuZRmUcBn1Fc6KHm3" width="480" height="260" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nVuZRmUcBn1Fc6KHm3">via GIPHY</a></p>" alt="Padilla E-Commerce Store" width="600px" />
+   <img src="<iframe src="<iframe src="https://giphy.com/embed/NYvw0MCqtrYyriTWsj" width="480" height="260" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/NYvw0MCqtrYyriTWsj">via GIPHY</a></p>" width="480" height="260" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nVuZRmUcBn1Fc6KHm3">via GIPHY</a></p>" alt="Padilla E-Commerce Store" width="600px" />
   <br>
 </h2>
 
